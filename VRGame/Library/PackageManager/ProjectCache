@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637920571545830695
+      ticks: 637920593976372657
     m_Hash: 2571630790
   m_LockFileStatus:
     m_FilePath: C:/Users/Monk.DESKTOP-E2ER5C6/Desktop/gigoiu/VR-RTS/VRGame/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637920571545840669
+      ticks: 637920593976372657
     m_Hash: 4247223032
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
